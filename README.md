@@ -1,2 +1,5 @@
-# TFG
-El objetivo de este trabajo ha sido desarrollar un sistema que sea capaz de detectar e identificar personas previamente reconocidas en una base de datos.
+# Catalogando colecciones de fotografía digital mediante etiquetado automático
+## Cataloging of digital photography collections by automatic labeling
+El objetivo de este trabajo ha sido desarrollar un sistema que sea capaz de detectar e identificar personas previamente reconocidas en una base de datos. Para llevar a cabo dichos objetivos se utilizará la herramienta de catalogación de software libre digiKam, que presenta una serie tablas internas muy interesantes para el trabajo de reconocimiento facial. Además, utilizaremos y estudiaremos la aplicación de Amazon Rekognition como API en nuestro sistema, que hará la función de motor de comparación de rostros. Todo esto ha de funcionar bajo una interfaz de usuario sencilla, que cualquier persona pueda utilizar con facilidad, para así explotar al máximo las funcionalidades. El sistema además de reconocer diferentes rostros ha de ser capaz de determinar en qué imágenes ya guardadas aparece dicha persona seleccionada, y con qué otras personas puede aparecer en una colección fotográfica.
+Como caso de uso para el proyecto, se propone identificar los miembros del Parlamento de Canarias.
+
