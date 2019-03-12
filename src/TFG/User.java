@@ -23,14 +23,14 @@ public class User {
 	  			public String getAWSSecretKey() 
 	  			{
 	  				
-	  				return "RFO1nkr1aKPljcMsuB/YVX/2igojPZefA8YljyZ4";
+	  				return "secretkey";
 	  			}
 	  			
 	  			@Override
 	  			public String getAWSAccessKeyId() 
 	  			{
 	  				
-	  				return "AKIAICI5T27RA7CYX26A";
+	  				return "accesskey";
 	  			}
             };
         } 
